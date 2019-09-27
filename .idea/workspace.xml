@@ -9,7 +9,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265a7797-7ae8-4e24-8e34-1931d97866fc" name="Default Changelist" comment="" />
+    <list default="true" id="1558d57d-9ac9-4f2c-ace1-adef64da187b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sources/glNative/gl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/glNative/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/gln/State.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/gln/enums.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.build/manifest.db" beforeDir="false" afterPath="$PROJECT_DIR$/.build/manifest.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Package.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/gln/gln.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/gln/gln.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/glnTests/glnTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/glnTests/glnTests.swift" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,17 +37,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="kLrMioKT" />
+    <option name="directoryName" value="auzuhhOK" />
   </component>
-  <component name="ProjectId" id="1RNM3PJYcG9Mb1m0A7UFAFwE8Jt" />
+  <component name="ProjectId" id="1RPsJ14HU9WUCrvL0OEaXgrNPkX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,16 +72,44 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="265a7797-7ae8-4e24-8e34-1931d97866fc" name="Default Changelist" comment="" />
-      <created>1569502900909</created>
+      <changelist id="1558d57d-9ac9-4f2c-ace1-adef64da187b" name="Default Changelist" comment="" />
+      <created>1569579989622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569502900909</updated>
+      <updated>1569579989622</updated>
+      <workItem from="1569579992048" duration="2000" />
+      <workItem from="1569616273593" duration="83000" />
+      <workItem from="1569617891993" duration="52000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1189" height="394" key="GridCell.Tab.0.bottom" timestamp="1569617942568">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state width="1189" height="394" key="GridCell.Tab.0.bottom/70.27.2490.1413@70.27.2490.1413" timestamp="1569617942568" />
+    <state width="1189" height="394" key="GridCell.Tab.0.center" timestamp="1569617942567">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state width="1189" height="394" key="GridCell.Tab.0.center/70.27.2490.1413@70.27.2490.1413" timestamp="1569617942567" />
+    <state width="1189" height="394" key="GridCell.Tab.0.left" timestamp="1569617942567">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state width="1189" height="394" key="GridCell.Tab.0.left/70.27.2490.1413@70.27.2490.1413" timestamp="1569617942567" />
+    <state width="1189" height="394" key="GridCell.Tab.0.right" timestamp="1569617942567">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state width="1189" height="394" key="GridCell.Tab.0.right/70.27.2490.1413@70.27.2490.1413" timestamp="1569617942567" />
+    <state x="348" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1569616274260">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="348" y="561" key="com.intellij.ide.util.TipDialog/70.27.2490.1413@70.27.2490.1413" timestamp="1569616274260" />
   </component>
 </project>

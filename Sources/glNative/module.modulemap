@@ -1,0 +1,5 @@
+module gl {
+    header "gl.h"
+    link "GL"
+    export *
+}
